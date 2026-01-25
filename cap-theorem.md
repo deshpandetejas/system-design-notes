@@ -37,5 +37,3 @@ There is no free option — only explicit vs accidental choices.
 - What is the operator playbook during a split-brain scenario?
 
 ---
-- review questions
-- leadership takeaways (not textbook definitions)
