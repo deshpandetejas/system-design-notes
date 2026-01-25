@@ -41,15 +41,6 @@ They are intentionally concise and opinionated.
 - Rate limiting and backpressure
 - Failure modes in distributed systems
 
-## How Issues are used
-
-GitHub Issues are used intentionally as a **thinking and planning space**:
-- to outline topics before converting them into notes
-- to capture open questions or follow-up ideas
-- to track areas I want to explore deeper
-
-Once a topic is mature, it is documented as a markdown file in the repository.
-
 ## Disclaimer
 
 These notes reflect my understanding at a point in time.
